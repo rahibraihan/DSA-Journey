@@ -21,7 +21,7 @@ int main(){
     int posi,newelm;
     cout<<"enter the position where you insert new element:";
     cin>>posi;
-    cout << "enter the new element value";
+    cout << "enter the new element value:";
     cin >> newelm;
      if (posi > m || posi < 0)
     {
